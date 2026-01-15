@@ -7,22 +7,22 @@ trained is set to 4 classes, since the model being trained is expected to detect
 cardamom, bayleaf, asofoetida and turmeric 
 
 ##  Project Documents
-- [Project Slides (PDF)](docs/)
-- [Presentation Report (PDF)](docs/)
+- [Project Slides (PDF)](docs/Spices-detection-presentation.pdf)
+- [Presentation Report (PDF)](docs/Spices-detection-report.pdf)
 
 ## Experimental Results
 
 <p align="center" style="margin-bottom:100px;">
-  <img src="experimental-images/labelling.png" width="450"/>><br>
-  <span>Experiment 1: Object Detection on Dataset A</span>
+  <img src="experimental-images/Result-1.jpg" width="450"/>><br>
+  <span> a. spice asafoetida detection</span>
 </p>
 
 <p align="center">
-  <img src="experimental-images/object-detection-image1.png" width="450"/><br>
-  <span>Experiment 2: Transfer Learning with Pretrained Model</span>
+  <img src="experimental-images/Result-2.jpg" width="450"/><br>
+  <span>b. spice bayleaf detection</span>
 </p>
 
 <p align="center">
-  <img src="experimental-images/object-detection-image2.png" width="450"/><br>
-  <span>Experiment 3: Fine-tuning with Augmented Data</span>
+  <img src="experimental-images/Result-1.jpg" width="450"/><br>
+  <span> c. spice turmeric detection</span>
 </p>
